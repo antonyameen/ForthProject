@@ -1,0 +1,25 @@
+.d1,.d2,.d3,.d4{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+border-left: 19px solid khaki;   
+}
+.d1{
+    color:black;
+}
+.d2{
+    color:rgb(25, 153, 32);
+}
+.d3{
+    color:rgb(42, 26, 189);
+}
+.d4{
+    color:rgb(202, 29, 29);
+}
+div p{
+    margin: 70px;
+    padding: 10px;
+}
